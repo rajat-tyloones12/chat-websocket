@@ -1,0 +1,9 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.chat-container {
+  display: flex;
+  height: 95vh;
+}
